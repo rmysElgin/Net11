@@ -11,6 +11,8 @@ namespace MyFirstRepo
         static void Main(string[] args)
         {
             //github hy6nu6mu6mu
+
+            Console.WriteLine("hello github");
         }
     }
 }
